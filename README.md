@@ -107,6 +107,7 @@ Each client trains locally, and contributions are aggregated into a global model
 ## Contact
 - Epameinondas Douros — epadouros@gmail.com
 - Konstantinos Dalampekis — konstantinosdalampekis@gmail.com
+- Nouhaila Innan - nouhaila.innan@nyu.edu
 
 ## Acknowledgments
 This project was supported by NYU Abu Dhabi, CQTS, and eBRAIN Lab.
