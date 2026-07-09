@@ -1,6 +1,7 @@
-# Quantum Federated Learning for Fraud Detection
+# Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection
 
-This project combines **quantum machine learning** with **federated learning (FL)** to detect fraud across financial institutions without sharing raw data. It was built for the Quantum Fraud Detection Competition organized by NYU Abu Dhabi.
+This project combines **quantum machine learning** with **federated learning (FL)** to detect fraud across financial institutions without sharing raw data. 
+<!--It was built for the Quantum Fraud Detection Competition organized by NYU Abu Dhabi.-->
 
 Clients train locally on a synthetic fraud dataset using quantum-enhanced models, then contribute to a shared global model through an adaptive, encrypted aggregation process secured by blockchain.
 
@@ -108,4 +109,4 @@ Each client trains locally, and contributions are aggregated into a global model
 - Konstantinos Dalampekis — konstantinosdalampekis@gmail.com
 
 ## Acknowledgments
-This project was supported by NYU Abu Dhabi and the Quantum Computing Research Lab.
+This project was supported by NYU Abu Dhabi, CQTS, and eBRAIN Lab.
